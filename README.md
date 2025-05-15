@@ -85,7 +85,7 @@ IrrigationAlert/
 
 
 # App Home Screen And Notification Screen Image
-<p float="centre">
+<p float="left">
   <img src="https://github.com/user-attachments/assets/37edca07-3d7b-443f-8f8e-bba9dba56ee9" width="45%" />
   <img src="https://github.com/user-attachments/assets/af1785a4-2672-4dba-ab85-33c14cc80ff6" width="45%" />
 </p>
