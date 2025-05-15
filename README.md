@@ -57,6 +57,7 @@ IrrigationAlert/
 
 3. **Set up Firebase**:
    - Add your `google-services.json` to `app/`.
+   -  Add your `google-services.json` to `alert1/` and `alert2/` files also.
 
 4. **Connect device and run the app**.
 
