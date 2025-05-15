@@ -8,8 +8,6 @@
 
 It works alongside a rover deployed in rice paddy fields that autonomously patrols the area and detects potential issues such as **low irrigation**, **crop stress**, or **environmental anomalies**. When an issue is detected, the rover triggers an alert function that immediately sends a **push notification** with an **alert sound** to this mobile app, enabling farmers to take timely action.
 ![Screenshot_20250515_124807](https://github.com/user-attachments/assets/2614eaf7-f1f5-4ac0-a93b-77cf
-![Screenshot_20250514_182845](https://github.com/user-attachments/assets/7f7efaba-98f1-4d0b-8713-450d9ce52991)
-45aa4077)
 
 ##  Features
 
