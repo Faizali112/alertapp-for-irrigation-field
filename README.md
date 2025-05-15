@@ -62,7 +62,7 @@ IrrigationAlert/
 
 5. **Deploy rover** in the field and wait for alerts!
 
-6. **OR If you want the developed app directly you can mail me!** 
+6. **You can directly install the app from "install apk" folder** 
 
 ## 🛰 Real-World Impact
 
