@@ -74,8 +74,7 @@ IrrigationAlert/
 ## 🎯 Future Improvements
 
 - Display sensor data (e.g., temperature, moisture) alongside alerts  
-- Add alert history and visualization dashboard  
-- Support for multilingual notifications  
+- Add alert history and visualization dashboard
 - Expand to other crop types and terrains  
 
 ## 👤 Developed By
