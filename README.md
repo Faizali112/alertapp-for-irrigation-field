@@ -10,7 +10,7 @@ It works alongside a rover deployed in rice paddy fields that autonomously patro
 
 ##  Features
 
-- 🔔 **Instant Alert Notifications**: Get real-time push notifications from the rover when issues are detected in the field.
+- 🔔 **Instant Alert Notifications**: Get real-time push notifications from the rover when issues are detected in the field along with time the alert was generated.
 - 🎵 **Audio Alert**: Each notification is accompanied by an audible alert to ensure it is noticed quickly.
 - 🤖 **Rover Integration**: Designed to work seamlessly with a Raspberry Pi-powered rover that analyzes field conditions.
 - 📲 **Minimal UI, Maximum Impact**: Lightweight and focused interface for fast and easy alert handling.
